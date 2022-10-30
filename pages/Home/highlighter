@@ -1,24 +1,37 @@
-<main>
-  <section class="main-section">
-    <div class="action">
-      <h1>You weren't born to do paperwork</h1>
-      <p>
-        Easily build or convert your ideal processes into a single touch digital
-        format.
-      </p>
-      <div>
-        <button class="bt bt-primary">Try the software free</button>
-        <button class="bt bt-secondary">Watch demo</button>
-      </div>
-    </div>
-    <div class="main-img">
-      <img src="../../assets/img/sitemate4.svg" alt="" />
-    </div>
-  </section>
-  <section class="partners-section">
-    <img src="../../assets/img/sitemate5.svg" alt="" />
-    <div class="partners">
-      Trusted by companies, projects and teams of all sizes
-    </div>
-  </section>
-</main>
+<nav class="navbar">
+  <div class="navbar-wrapper">
+  <ul class="navbar-links">
+  <img src="../../assets/img/sitemate1.svg" alt="" class="logo"/>
+     <li>
+       <a href="" class="bt">Products</a>
+     </li>
+     <li>
+       <a href="" class="bt">By system</a>
+     </li>
+     <li>
+       <a href="" class="bt">By use case</a>
+       <li>
+        <a href="" class="bt">Pricing</a>
+      </li>
+ 
+     </li>
+     <li>
+       <a href="" class="bt">Resources</a>
+     </li>
+     </ul>
+     
+     <ul class="navbar-links">
+     
+     <li>
+       <a href="" class="bt">Login</a>
+     </li>
+     <li>
+     <a href="" class="bt bt-secondary">Watch demo</a>
+     </li>
+     <li>
+     <a href="" class="bt bt-primary">Try it for free</a>
+     </li>
+     
+   </ul>
+</div>
+</nav>

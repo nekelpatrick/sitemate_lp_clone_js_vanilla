@@ -30,6 +30,7 @@
 .logo {
   width: 110px;
   margin-bottom: 2px;
+  margin-right: 3rem;
 }
 
 @media (max-width: 991px) {
