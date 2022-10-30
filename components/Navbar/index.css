@@ -9,11 +9,16 @@
   background-color: var(--color-white);
   z-index: 2;
   color: var(--color-gray-600);
+  border-bottom: solid 0.3px var(--color-gray-400);
 }
 
 .navbar-wrapper {
+  max-width: 100%;
+  width: 90%;
+  margin: 0 auto;
+
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .navbar-links {
@@ -25,33 +30,6 @@
 .logo {
   width: 110px;
   margin-bottom: 2px;
-}
-.bt-demo {
-  border: 2px solid #e0e2e4;
-
-  padding: 9px 10px !important;
-  background: #fff;
-  border-radius: 5px;
-  font-weight: 500;
-}
-
-.bt-try {
-  background-color: var(--color-primary);
-  color: var(--color-white);
-  border: 0.063rem solid var(--color-gray-600);
-
-  padding: 10px 12px !important;
-  font-weight: 500;
-}
-
-.bt-demo:hover {
-  background-color: var(--color-gray-600);
-  color: var(--color-gray-100);
-}
-
-.bt-try:hover {
-  background-color: var(--color-gray-600);
-  color: var(--color-gray-100);
 }
 
 @media (max-width: 991px) {

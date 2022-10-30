@@ -3,7 +3,6 @@ import "./index.css";
 export const Navbar = () => {
   return `
   <nav class="navbar">
-  <div class="container">
      <div class="navbar-wrapper">
      <ul class="navbar-links">
      <img src="../../assets/img/sitemate1.svg" alt="" class="logo"/>
@@ -27,14 +26,13 @@ export const Navbar = () => {
           <a href="" class="bt">Login</a>
         </li>
         <li>
-        <a href="" class="bt bt-demo">Watch demo</a>
+        <a href="" class="bt bt-secondary">Watch demo</a>
         </li>
         <li>
-        <a href="" class="bt bt-try">Try it for free</a>
+        <a href="" class="bt bt-primary">Try it for free</a>
         </li>
         
       </ul>
-    </div>
   </div>
 </nav>
     

@@ -1,8 +1,4 @@
-import "./index.css";
-
-export const Home = () => {
-  return `
-  <main>
+<main>
   <section class="main-section">
     <div class="action">
       <h1>You weren't born to do paperwork</h1>
@@ -26,5 +22,3 @@ export const Home = () => {
     </div>
   </section>
 </main>
-  `;
-};
