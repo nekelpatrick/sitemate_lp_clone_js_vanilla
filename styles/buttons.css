@@ -1,0 +1,23 @@
+.bt {
+  background-color: transparent;
+  border-radius: 0.25rem;
+  height: 2.375rem;
+  padding: 0 1rem;
+  color: var(--color-gray-600);
+  font-size: var(--font-3);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-family-1);
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.bt:hover {
+}
+
+.bt:focus {
+  background-color: var(--color-gray-100);
+  color: var(--color-white);
+}

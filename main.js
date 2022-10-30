@@ -1,10 +1,13 @@
 import "./styles/global.css";
+import "./styles/buttons.css";
 
-// import { home } from "./components/Navbar";
+import { Home } from "./pages/Home";
+import { Navbar } from "./components/Navbar";
 
 document.querySelector("#app").insertAdjacentHTML(
   "beforeend",
   `
-
+  ${Navbar()}
+  ${Home()}
   `
 );
