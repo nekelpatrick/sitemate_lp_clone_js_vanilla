@@ -16,11 +16,11 @@ export const Home = () => {
       </div>
     </div>
     <div class="main-img">
-      <img src="../../assets/img/sitemate4.svg" alt="" />
+      <img src="https://sitemate.com/wp-content/uploads/2020/11/Group-565.svg" alt="" />
     </div>
   </section>
   <section class="partners-section">
-    <img src="../../assets/img/sitemate5.svg" alt="" />
+    <img src="https://sitemate.com/wp-content/uploads/2020/11/Group-4.svg" alt="" />
     <div class="partners">
       <p>Trusted by companies, projects and teams of all sizes </p>
     </div>
