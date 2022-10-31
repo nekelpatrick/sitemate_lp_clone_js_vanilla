@@ -5,8 +5,8 @@ export const Home = () => {
   <main>
   <section class="main-section">
     <div class="action">
-      <h2>You weren't born to do paperwork</h2>
-      <p>
+      <h2 class="text-1 font-medium">You weren't born to do paperwork</h2>
+      <p class="text-2 font-regular">
         Easily build or convert your ideal processes into a single touch digital
         format.
       </p>
@@ -22,7 +22,7 @@ export const Home = () => {
   <section class="partners-section">
     <img src="https://sitemate.com/wp-content/uploads/2020/11/Group-4.svg" alt="" />
     <div class="partners">
-      <p>Trusted by companies, projects and teams of all sizes </p>
+      <p class="text-2 font-regular" >Trusted by companies, projects and teams of all sizes </p>
     </div>
   </section>
 </main>

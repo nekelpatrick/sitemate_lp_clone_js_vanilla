@@ -38,11 +38,11 @@
 }
 
 .partners {
-  background-color: var(--color-primary);
+  background-color: #0080df;
   color: var(--color-white);
   padding-top: 10px;
   width: 100%;
-  height: 400px;
+  height: 250px;
   display: flex;
   justify-content: center;
 }
