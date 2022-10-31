@@ -5,7 +5,7 @@ export const Navbar = () => {
   <nav class="navbar">
   <div class="navbar-wrapper">
   <ul class="navbar-links">
-  <img src="../../assets/img/sitemate1.svg" alt="" class="logo"/>
+  <img src="https://sitemate.com/wp-content/uploads/2020/11/Group-2.svg" alt="" class="logo"/>
      <li>
        <a href="" class="bt">Products</a>
      </li>
